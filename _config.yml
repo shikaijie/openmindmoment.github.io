@@ -1,24 +1,18 @@
 # Site settings
-title: Writer Theme
-email: help@writer-theme.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+title: 开智一刻
+email: h@openmind.club
+description: > # 开智一刻是简单，精炼的分享讨论单元。话题不限，每次总时长不超过半小时。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "moment.openmind.club" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'
+single_footer: '<p>开智微播 Writer &copy; 2015 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Writer 2015', '/about']
 
 
 # Build settings
